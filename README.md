@@ -1,4 +1,4 @@
-#Atalaia
+# Atalaia
 
 Esse app foi desenvolvido com o intuito de manter todos os terráqueos informados sobre a possibilidade de colisão com algum corpo celeste forasteiro.
 
@@ -11,10 +11,10 @@ Essa aplicação consome a [API NeoWs](https://www.neowsapp.com/) (Near Earth Ob
 A documentação dessa API e outras podem ser encontradas [aqui](https://api.nasa.gov/).
 
 Inspirações artísticas para o design do app:
+
 [Azedo](https://befonts.com/azedo-font.html) - por [Pedro Azedo](https://befonts.com/designer/pedro-azedo)
+
 Comet Icon - disponível em [Flat Icon](https://www.flaticon.com/authors/flat-icons)
-
-
 
 ### Dependências, Teste e Desenvolvimento
 
@@ -32,10 +32,9 @@ npm install
 expo start
 ```
 
-
 ### Gerando a APK/IPA do app
 
-###### Android
+##### Android
 Para gerar apenas a APK, execute:
 ```shell
 expo built:android -t apk
@@ -46,13 +45,11 @@ expo built:status
 expo built:android
 ```
 
-###### iOS
+##### iOS
 Para gerar a IPA, execute:
 ```shell
 expo built:status
 expo built:ios
 ```
-
-
 
 **[GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html)**
