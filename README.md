@@ -1,5 +1,4 @@
-
-![Logo Atalaia](https://github.com/viniciusvviterbo/Atalaia/tree/master/src/assets/nome.png)
+#Atalaia
 
 Esse app foi desenvolvido com o intuito de manter todos os terráqueos informados sobre a possibilidade de colisão com algum corpo celeste forasteiro.
 
@@ -19,23 +18,24 @@ Comet Icon - disponível em [Flat Icon](https://www.flaticon.com/authors/flat-ic
 
 ### Dependências, Teste e Desenvolvimento
 
-* Clone esse repositório
+1. Clone esse repositório
 ```
 git clone github.com/viniciusvviterbo/Atalaia
 ```
-** Instale as dependências do projeto 
+2. Instale as dependências do projeto 
 ```shell
 cd Atalaia
 npm install
 ```
-*** Inicie o serviço _expo_ para o inicializar o modo de desenvolvimento
+3. Inicie o serviço _expo_ para o inicializar o modo de desenvolvimento
 ```shell
 expo start
 ```
 
 
-### Gerando a APK do app
+### Gerando a APK/IPA do app
 
+###### Android
 Para gerar apenas a APK, execute:
 ```shell
 expo built:android -t apk
@@ -46,10 +46,13 @@ expo built:status
 expo built:android
 ```
 
+###### iOS
 Para gerar a IPA, execute:
 ```shell
 expo built:status
 expo built:ios
 ```
+
+
 
 **[GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html)**
