@@ -44,20 +44,20 @@ expo start
 
 Para gerar apenas a APK, execute:
 ```shell
-expo built:android -t apk
+expo build:android -t apk
 ```
 ou
 ```shell
-expo built:status
-expo built:android
+expo build:status
+expo build:android
 ```
 
 ### iOS
 
 Para gerar a IPA, execute:
 ```shell
-expo built:status
-expo built:ios
+expo build:status
+expo build:ios
 ```
 
 ![divisoria](https://user-images.githubusercontent.com/24854541/81429691-8d1c7200-9134-11ea-82a3-2e4f0eea1211.png)
