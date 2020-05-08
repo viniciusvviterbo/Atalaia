@@ -1,6 +1,6 @@
-![logo_nome](https://user-images.githubusercontent.com/24854541/81245506-8b936280-8feb-11ea-9289-a803824ac942.png)
+![logo_nome](https://user-images.githubusercontent.com/24854541/81429684-8988eb00-9134-11ea-9733-401adf47ee26.png)
 
-![divisoria](https://user-images.githubusercontent.com/24854541/81245952-b631eb00-8fec-11ea-96b8-8f516f41f55b.png)
+![divisoria](https://user-images.githubusercontent.com/24854541/81429691-8d1c7200-9134-11ea-82a3-2e4f0eea1211.png)
 
 [Baixe a APK](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40viniciusvviterbo/Atalaia-445689019a7b4fd695d67ef4ffb2b265-signed.apk)
 
@@ -20,7 +20,7 @@ Inspirações artísticas para o design do app:
 
 Comet Icon - disponível em [Flat Icon](https://www.flaticon.com/authors/flat-icons)
 
-![divisoria](https://user-images.githubusercontent.com/24854541/81245952-b631eb00-8fec-11ea-96b8-8f516f41f55b.png)
+![divisoria](https://user-images.githubusercontent.com/24854541/81429691-8d1c7200-9134-11ea-82a3-2e4f0eea1211.png)
 
 ## Dependências, Teste e Desenvolvimento
 
@@ -60,6 +60,6 @@ expo built:status
 expo built:ios
 ```
 
-![divisoria](https://user-images.githubusercontent.com/24854541/81245952-b631eb00-8fec-11ea-96b8-8f516f41f55b.png)
+![divisoria](https://user-images.githubusercontent.com/24854541/81429691-8d1c7200-9134-11ea-82a3-2e4f0eea1211.png)
 
 **[GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html)**
