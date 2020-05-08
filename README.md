@@ -1,4 +1,4 @@
-![logo_nome](https://user-images.githubusercontent.com/24854541/81429684-8988eb00-9134-11ea-9733-401adf47ee26.png)
+![logo nome](https://user-images.githubusercontent.com/24854541/81432755-dd4a0300-9139-11ea-974c-e5457c589024.png)
 
 ![divisoria](https://user-images.githubusercontent.com/24854541/81429691-8d1c7200-9134-11ea-82a3-2e4f0eea1211.png)
 
